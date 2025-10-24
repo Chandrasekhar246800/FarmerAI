@@ -15,7 +15,7 @@ export default function Navigation() {
     { name: "Impact", href: "#impact" },
     { name: "Technology", href: "#technology" },
     { name: "Roadmap", href: "#roadmap" },
-    { name: "Team", href: "#team" },
+    { name: "Contact", href: "#team" },
   ];
 
   useEffect(() => {
